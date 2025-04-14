@@ -139,42 +139,43 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Favourite Songs',
+					link: 'https://music.youtube.com/playlist?list=LM',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Study & Focus',
+					link: 'https://music.youtube.com/playlist?list=PLFQJnfSh-Ua_43j_RZ_c_ROPHCXuhmHhx&si=ZSvnJAMCErGjWncn',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Code & Focus',
+					link: 'https://music.youtube.com/playlist?list=PLFQJnfSh-Ua_QA7E8sljW64L3ll3yNaXn&si=_8DCBn3zeh01px50',
 				},
+				
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Byte Beats',
+					link: 'https://music.youtube.com/playlist?list=PLFQJnfSh-Ua8L32PlcF3_fxEMV3KVWv-K&si=DCLBy83nY1-A-dov',
 				},
 			],
 		},
 		{
-			icon: 'coffee',
+			icon: 'book-open-text',
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Mebis',
+					link: 'https://mebis.bycs.de/',
 				},
 				{
 					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					link: 'https://bapp.hsgerlenbach.de/newestArticles',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'schul.cloud',
+					link: 'https://app.schul.cloud/',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Sharezone',
+					link: 'https://web.sharezone.net/',
 				},
 			],
 		},
@@ -183,24 +184,24 @@ const CONFIG = {
 	// Second Links Container
 	secondListsContainer: [
 		{
-			icon: 'binary',
+			icon: 'guitar',
 			id: '1',
 			links: [
 				{
-					name: 'Spotify',
-					link: 'https://www.spotify.com',
+					name: 'Gitarre lernen',
+					link: 'https://www.onlinegitarrelernen.de/',
 				},
 				{
-					name: 'Reddit',
-					link: 'https://www.reddit.com',
+					name: 'Ultimate Guitar',
+					link: 'https://www.ultimate-guitar.com/explore',
 				},
 				{
-					name: 'Hashnode',
-					link: 'https://www.hashnode.com',
+					name: '',
+					link: '',
 				},
 				{
-					name: 'Pocket',
-					link: 'https://www.pocket.com',
+					name: '',
+					link: '',
 				},
 			],
 		},
@@ -209,20 +210,20 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Front',
-					link: 'https://www.reddit.com/r/Frontend/',
+					name: 'Colormind',
+					link: 'http://colormind.io/',
 				},
 				{
-					name: 'Rust',
-					link: 'https://www.reddit.com/r/rust/',
+					name: 'Realtime Colors',
+					link: 'https://realtimecolors.com/',
 				},
 				{
-					name: 'Go',
-					link: 'https://www.reddit.com/r/golang/',
+					name: 'Mockaroo',
+					link: 'https://www.mockaroo.com/',
 				},
 				{
 					name: 'Repos',
-					link: 'https://github.com/migueravila',
+					link: 'https://github.com/xcodecat',
 				},
 			],
 		},

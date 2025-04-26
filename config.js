@@ -166,7 +166,7 @@ const CONFIG = {
 					link: 'https://mebis.bycs.de/',
 				},
 				{
-					name: 'Dribbble',
+					name: 'bapp',
 					link: 'https://bapp.hsgerlenbach.de/newestArticles',
 				},
 				{
